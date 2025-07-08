@@ -5,7 +5,7 @@ A modern, responsive travel website built using HTML and CSS. Includes a hero se
 ## 🔧 Features
 - Responsive layout for mobile and desktop
 - Clean and modern design
-- Interactive hover effects
+- Interactive hover effects 
 - Semantic HTML structure
 
 ## 🚀 Technologies Used
